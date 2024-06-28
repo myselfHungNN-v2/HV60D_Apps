@@ -1,0 +1,12 @@
+000226346
+24
+1500
+Timer Start
+Test Channel 1
+Test Channel 2
+Test Channel 3
+Test Channel 4
+Timer Stop
+MEAS.AllRelaysOFF
+MEAS.Reset JIG
+Apps.UI Update 2
